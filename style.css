@@ -1,0 +1,112 @@
+* {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 16px
+}
+
+
+
+header {
+    color: #2E282A;
+
+}
+
+.Title {
+    background-color: #C5C5C5;
+    color: #5C6B73;
+    width: 88%;
+    height: 68px;
+    margin-right: 0px;
+}
+
+.Tab {
+    background-color: #2E282A;
+    color: #F9F8F8;
+    margin-left: 0px;
+    width: 12%;
+    height: 785px;
+}
+
+.Stuff {
+    background-color: #797270;
+    margin-right: 0px;
+    height: 785px;
+    width: 88%;
+    position: absolute;
+    top: 68px;
+    left: 172.4px;
+
+
+
+}
+
+
+
+
+p1 {
+    font-size: 60px;
+    font-family: 'Bangers', cursive;
+}
+
+p3 {
+    font-size: 20px;
+    font-family: 'Bangers', cursive;
+}
+
+p4 {
+    font-size: 15px;
+    font-family: 'Patua One', cursive;
+    color: white;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    width: 88%;
+    height: 750px;
+
+
+}
+
+a {
+    color: #F9F8F8;
+    font-family: 'Bangers', cursive;
+}
+
+.container {
+
+    text-align: center;
+    color: white;
+
+}
+
+.centered {
+    position: absolute;
+    top: 200px;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    background-color: black;
+}
+
+#Brain {
+    width: 1265px;
+}
+
+
+
+#AI {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    margin-bottom: 0px;
+    margin-right: 10px;
+    margin-top: 0px;
+    width: 85%;
+    height: 200px;
+
+}
